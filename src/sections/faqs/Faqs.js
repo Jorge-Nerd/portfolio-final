@@ -1,8 +1,9 @@
 import React from 'react'
+import './Faqs.css'
 
 const Faqs = () => {
   return (
-    <section id='faqs'>Faqs</section>
+    <section id='faqs'><h2>FAQS</h2></section>
   )
 }
 
